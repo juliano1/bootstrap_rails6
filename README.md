@@ -12,7 +12,8 @@ Things you may want to cover:
     4- acessar app/config/webpacker.yml
     5- acessar app/javascript/packs/javascript adicionar import "bootstrap/dist/js/bootstrap.bundle"
     6- Para ter seu css também funcionado além do bootstrap crie uma pasta chamada src em app/javascript em seguida no mesmo local crie o arquivo application.css
-    7- 
+    7- Em view application.html.erb ajustar a referencia css para stylesheet_pack_tag
+    8- 
 
 * System dependencies
 
