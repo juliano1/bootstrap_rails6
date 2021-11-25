@@ -11,6 +11,8 @@ Things you may want to cover:
     3- acessar app/assets/config/manisfest.js e remover a linha //= link_directory ../stylesheets .css
     4- acessar app/config/webpacker.yml
     5- acessar app/javascript/packs/javascript adicionar import "bootstrap/dist/js/bootstrap.bundle"
+    6- Para ter seu css também funcionado além do bootstrap crie uma pasta chamada src em app/javascript em seguida no mesmo local crie o arquivo application.css
+    7- 
 
 * System dependencies
 
